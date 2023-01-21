@@ -2,7 +2,7 @@
 Analysing chess.com's matchmaking of rated games for fairness.
 _________________________________
 
-The rendered output of the .qmd file is in the pdf document. Download and view locally if text-font seems distorted on github.
+The rendered output of the .qmd file is in the pdf document (13 pages). Download and view locally if text-font seems distorted on github.
 
 The data file used can be found here https://www.kaggle.com/datasets/adityajha1504/chesscom-user-games-60000-games
 The .csv file was too large to be compressed under 25 MB for uploading here.
