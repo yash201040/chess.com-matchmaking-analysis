@@ -1,5 +1,7 @@
 # chess.com-matchmaking-analysis
-Analysing chess.com's matchmaking of rated games for fairness.
+Analysing chess.com's matchmaking of rated games for fairness across different elo ranges.
+Involves black-&-white pieces scatter plot and matched pair's elo mid-point prediction through linear regression.
+Follow-up with analysis of different volumes of matches played at different elo mid-points and focusing on the range where maximum matches occur (1200-1600). Concluding with hypothesis testing for any advantage to white or black pieces due to matchmaking bias.
 _________________________________
 
 The rendered output of the .qmd file is in the pdf document (13 pages). Download and view locally if text-font seems distorted on github.
